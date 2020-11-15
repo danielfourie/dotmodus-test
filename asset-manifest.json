@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/dotmodus-test/static/css/main.4d9b2d09.chunk.css",
-    "main.js": "/dotmodus-test/static/js/main.42a828e5.chunk.js",
-    "main.js.map": "/dotmodus-test/static/js/main.42a828e5.chunk.js.map",
+    "main.js": "/dotmodus-test/static/js/main.98f62e7b.chunk.js",
+    "main.js.map": "/dotmodus-test/static/js/main.98f62e7b.chunk.js.map",
     "runtime-main.js": "/dotmodus-test/static/js/runtime-main.c0bed2fc.js",
     "runtime-main.js.map": "/dotmodus-test/static/js/runtime-main.c0bed2fc.js.map",
     "static/css/2.9c6b934b.chunk.css": "/dotmodus-test/static/css/2.9c6b934b.chunk.css",
-    "static/js/2.ccdd631c.chunk.js": "/dotmodus-test/static/js/2.ccdd631c.chunk.js",
-    "static/js/2.ccdd631c.chunk.js.map": "/dotmodus-test/static/js/2.ccdd631c.chunk.js.map",
+    "static/js/2.9071c851.chunk.js": "/dotmodus-test/static/js/2.9071c851.chunk.js",
+    "static/js/2.9071c851.chunk.js.map": "/dotmodus-test/static/js/2.9071c851.chunk.js.map",
     "index.html": "/dotmodus-test/index.html",
     "static/css/2.9c6b934b.chunk.css.map": "/dotmodus-test/static/css/2.9c6b934b.chunk.css.map",
     "static/css/main.4d9b2d09.chunk.css.map": "/dotmodus-test/static/css/main.4d9b2d09.chunk.css.map",
-    "static/js/2.ccdd631c.chunk.js.LICENSE.txt": "/dotmodus-test/static/js/2.ccdd631c.chunk.js.LICENSE.txt"
+    "static/js/2.9071c851.chunk.js.LICENSE.txt": "/dotmodus-test/static/js/2.9071c851.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c0bed2fc.js",
     "static/css/2.9c6b934b.chunk.css",
-    "static/js/2.ccdd631c.chunk.js",
+    "static/js/2.9071c851.chunk.js",
     "static/css/main.4d9b2d09.chunk.css",
-    "static/js/main.42a828e5.chunk.js"
+    "static/js/main.98f62e7b.chunk.js"
   ]
 }
