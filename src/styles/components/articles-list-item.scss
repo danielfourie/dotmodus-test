@@ -1,0 +1,29 @@
+.article-list-item{
+  background-color: #ffffff;
+  padding: 0.5rem;
+  border-radius: 0.2rem;
+  font-size: 0.9rem;
+  font-weight: 300;
+  margin-right: 0;
+  margin-left: 0;
+
+  img {
+    width: 100%;
+  }
+
+
+  .title {
+    font-weight: bold;
+
+    @media screen and (max-width: 768px) {
+      font-weight: normal;
+    }
+  }
+
+
+  > div {
+    @media screen and (max-width: 768px) {
+      margin-bottom: 1rem;
+    }
+  }
+}
